@@ -38,6 +38,7 @@ win32/*.plist
 *.xcworkspacedata
 *.xcuserstate
 *.xcsettings
+*.VC.opendb
 xcschememanagement.plist
 .DS_Store
 Debug
